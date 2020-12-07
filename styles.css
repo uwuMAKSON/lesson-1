@@ -34,4 +34,5 @@ body {
     border-radius: 100%;
     box-shadow: 0 0 10px red;
     overflow: hidden;
+    margin: 50px;
 }
