@@ -37,3 +37,6 @@ body {
     margin: 50px;
     transition: 1.5s;
 }
+img{
+    width: 100%;
+}
