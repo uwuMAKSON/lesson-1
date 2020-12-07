@@ -35,4 +35,5 @@ body {
     box-shadow: 0 0 10px red;
     overflow: hidden;
     margin: 50px;
+    transition: 1.5s;
 }
